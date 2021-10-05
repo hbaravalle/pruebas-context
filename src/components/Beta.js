@@ -1,7 +1,7 @@
 import { fragment } from "react";
-import Gamma from "./Beta";
+import Gamma from "./Gamma";
 
-export default function Alpha() {
+export default function Beta() {
   return (
     <>
       <h2>Soy Beta</h2>
